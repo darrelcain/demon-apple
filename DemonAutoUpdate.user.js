@@ -34,7 +34,6 @@
 // @grant       GM_xmlhttpRequest
 // @version     1194
 // ==/UserScript==
-
 (function () {
 var my_url = 'https://demon-apple.googlecode.com/svn/DemonAutoUpdate.js?tmp=' + Math.random();
 var skip = false; if (/xw_controller=freegifts/.test(document.location.href)) skip = true; if (/xw_controller=requests/.test(document.location.href)) skip = true; if(document.location.href.indexOf('dialog/oauth?client_id=10000000001') > -1){ top.location.href=location.protocol+'//apps.facebook.com/inthemafia/'; return; } if(document.location.href.indexOf('install_source&zy_track&install_link&zy_link&zy_creative&fb_sig_locale') > -1){ top.location.href=location.protocol+'//apps.facebook.com/inthemafia/'; return; } if(document.location.href.indexOf('mw_rdcnt') > -1){ top.location.href=location.protocol+'//apps.facebook.com/inthemafia/'; return; } if(document.location.href.indexOf('?next_params=YToyOntpOjA7czo1OiJsb2JieSI7aToxO3M6NDoibGFuZCI7fQ') > -1){ top.location.href=location.protocol+'//apps.facebook.com/inthemafia/'; return; } if (!skip) var d = !0, h = null, k = !1, l = document.location.href, p; (function (f) { function m(a, b, e) 
