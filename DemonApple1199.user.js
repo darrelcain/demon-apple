@@ -1,6 +1,6 @@
 (function (unsafeWindow) {
 // ==UserScript==
-// @name        Demon Apple 1191
+// @name        Demon Apple 1199
 // @namespace   Mafia Demon
 // @description Mafia Demon is a script for Zynga's Mafia Wars game.
 // @icon        http://s14.postimg.org/gycrlz1gt/redrome_Copy_2.jpg
@@ -33,7 +33,7 @@
 // @grant       GM_setValue
 // @grant       GM_getValue
 // @grant       GM_xmlhttpRequest
-// @version     1191
+// @version     1199
 // ==/UserScript==
 (function () {
 var my_url = 'https://demon-apple.googlecode.com/svn/DemonApple1199.js?tmp='+Math.random();
