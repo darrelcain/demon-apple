@@ -19,11 +19,11 @@ var ewe = [
 '&&O(function(){la=null;},12E4)', 
 '&&O(function(){la=null;},3E5)',
 'O(function(){var a=$(Jb("xS"));a.error(function(){x["io"]();});a[Jb("3a")]("src",Ia+Jb("!-O"));},3E5);', //stops if demon site is not accessible
-'&&k3I["n9e"](1411269465,l(a[1]))&&(e=void 0)', 
-'k3I["Q6"](1411234465,c[Jb("#%")])&&this["sa"]();', 
+'&&k3I["n9e"](702674900,l(a[1]))&&(e=void 0)', 
+'k3I["Q6"](702674900,c[Jb("#%")])&&this["sa"]();', 
 'G5x["O7"](1410996905,User["bt"])&&',
 'G5x["f1T"](1411034985,User["bt"])&&(U=null),',
-'!(G5x["u9k"](1411037505,User["bt"]))&&',
+'!(G5x["u9k"](702674900,User["bt"]))&&',
 'G5x["V8k"](1411006905,User["bt"])||', 
 'G5x["L9k"](1410992337,User["bt"])||',
 'G5x["O9k"](1411037205,User["bt"])||',
